@@ -23,7 +23,7 @@ Whether you’re a designer, artist, or simply someone with a creative vision, L
 3. **Image Generation**: The translated text is sent to the backend (FastAPI), where the Stable Diffusion model generates the image.
 4. **Display & Download**: The generated image is displayed on the app, and users can download it with a single click.
 
-![Architecture Diagram](images/lingoART (1).png)
+![Architecture Diagram](images/lingoART.png)
 
 ---
 
@@ -32,6 +32,14 @@ Whether you’re a designer, artist, or simply someone with a creative vision, L
 - **Backend**: [FastAPI](https://fastapi.tiangolo.com) for handling image generation requests.
 - **AI Model**: [Stable Diffusion](https://github.com/CompVis/stable-diffusion) for generating high-quality images.
 - **Translation**: [Googletrans](https://pypi.org/project/googletrans/) library for multilingual support.
+
+## This is how thw application looks 
+
+![Frontend Application](images/frontend1.png)
+
+![Running Application](images/cat1.png)
+
+![Running Application](images/cat2.png)
 
 ---
 
