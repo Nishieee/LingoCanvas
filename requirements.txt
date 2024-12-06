@@ -1,0 +1,6 @@
+transformers
+python-dotenv
+requests
+diffusers
+accelerator
+googletrans==4.0.0-rc1
