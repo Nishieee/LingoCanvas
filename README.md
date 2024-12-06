@@ -41,6 +41,11 @@ Whether you’re a designer, artist, or simply someone with a creative vision, L
 
 ![Running Application](images/cat2.png)
 
+## FastAPI Backend
+
+![FastAPI](backend/cat2.png)
+
+
 ---
 
 ## **Installation & Setup**
