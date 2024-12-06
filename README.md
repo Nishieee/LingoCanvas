@@ -23,6 +23,8 @@ Whether you’re a designer, artist, or simply someone with a creative vision, L
 3. **Image Generation**: The translated text is sent to the backend (FastAPI), where the Stable Diffusion model generates the image.
 4. **Display & Download**: The generated image is displayed on the app, and users can download it with a single click.
 
+![Architecture Diagram](images/lingoART (1).png)
+
 ---
 
 ## **Tech Stack**
